@@ -25,7 +25,7 @@ SECRET_KEY = '5tbcspi%j*8k*ne%7shef8dom2orl!juk4=0=11fngs6_phega'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['treysig.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
